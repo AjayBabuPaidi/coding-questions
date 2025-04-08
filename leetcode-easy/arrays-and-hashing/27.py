@@ -11,7 +11,6 @@ from typing import List
 
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        n = len(nums)
         temp = []
         count = 0
         for each in nums:
