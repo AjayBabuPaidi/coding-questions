@@ -1,9 +1,9 @@
 # LeetCode Question 
-    ## 884. Uncommon Words from Two Sentences
+    ## 2215. Find the Difference of Two Arrays
 # LeetCode Link
-    ## https://leetcode.com/problems/uncommon-words-from-two-sentences/description/
+    ## https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
 # NeetCode Explanation
-    ## https://www.youtube.com/watch?v=24IYW1kQdYU&ab_channel=NeetCodeIO
+    ## https://www.youtube.com/watch?v=a4wqKR-znBE&ab_channel=NeetCodeIO
 
 
 from typing import List
